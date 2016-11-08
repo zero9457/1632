@@ -1,7 +1,2 @@
-666
-echo "# re1632" >> README.md
-git init
-git add README.md
-git commit -m "first commit"
-git remote add origin git@github.com:zero9457/re1632.git
-git push -u origin master
+123456
+why
